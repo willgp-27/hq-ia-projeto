@@ -29,15 +29,55 @@ Agora, Millie precisa enfrentar não apenas um criminoso altamente inteligente, 
 
 ## Metodologia Utilizada
 
-### SCRUM
-O projeto foi dividido em Sprints, permitindo o desenvolvimento incremental da HQ.
+### Metodologia SCRUM
 
-Sprints utilizadas:
-- Sprint 1: Definição da história e personagens  
-- Sprint 2: Criação do roteiro  
-- Sprint 3: Geração de imagens com IA  
-- Sprint 4: Montagem da HQ  
-- Sprint 5: Documentação do projeto  
+O projeto foi dividido em Sprints curtas, permitindo o desenvolvimento incremental da história em quadrinhos, com entregas parciais ao final de cada etapa.
+
+#### Sprints utilizadas
+
+**Sprint 1 — Planejamento e Base da História**
+- Definição da ideia central
+- Criação dos personagens
+- Estrutura inicial do projeto no GitHub
+
+**Entrega:** História base definida e personagens criados
+
+---
+
+**Sprint 2 — Desenvolvimento do Roteiro**
+- Criação do roteiro da HQ
+- Definição das cenas e diálogos
+- Organização das páginas
+
+**Entrega:** Roteiro completo da história
+
+---
+
+**Sprint 3 — Produção de Imagens com IA**
+- Geração dos personagens
+- Criação dos cenários
+- Produção das cenas da HQ
+
+**Entrega:** Imagens necessárias para montagem da HQ
+
+---
+
+**Sprint 4 — Montagem da HQ**
+- Organização das páginas
+- Inserção das imagens
+- Adição dos diálogos
+
+**Entrega:** HQ finalizada
+
+---
+
+**Sprint 5 — Revisão e Documentação**
+- Revisão da história
+- Correção de erros
+- Documentação do processo no GitHub
+
+**Entrega:** Projeto completo e documentado
+
 
 ---
 
